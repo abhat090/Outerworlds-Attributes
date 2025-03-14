@@ -1,0 +1,7 @@
+
+["Living Entity Weakness and Resistance"]
+	#Range: 1.0 ~ 1024.0
+	WeaknessScale = 1.5
+	#Range: 0.0 ~ 1.0
+	ResistanceScale = 0.5
+

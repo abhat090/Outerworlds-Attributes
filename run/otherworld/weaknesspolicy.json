@@ -1,0 +1,8 @@
+{
+  "minecraft:blaze": [
+    "water"
+  ],
+  "minecraft:warden": [
+    "ender"
+  ]
+}

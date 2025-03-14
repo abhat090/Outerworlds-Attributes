@@ -1,0 +1,13 @@
+{
+  "minecraft:creeper": [
+    "fire"
+  ],
+  "minecraft:enderman": [
+    "ender"
+  ],
+  "minecraft:warden": [
+    "fire",
+    "water",
+    "nature"
+  ]
+}
