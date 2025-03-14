@@ -1,0 +1,10 @@
+{
+  "package": "com.plutothe5th.outerworld_attributes.mixin",
+  "refmap": "outerworld_attributes.refmap.json",
+  "mixins": [
+    "MixinFireAspectEnchantment",
+    "MixinItemStack",
+    "MixinLivingEntity",
+    "MixinPlayer"
+  ]
+}

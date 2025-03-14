@@ -1,0 +1,5 @@
+// 1.20.1	2025-03-13T10:15:47.1304024	Tags for minecraft:damage_type mod id outerworld_attributes
+36181f1dc4aa2603ad1766a78dc14b08d77d8a2a data/minecraft/tags/damage_type/bypasses_armor.json
+36181f1dc4aa2603ad1766a78dc14b08d77d8a2a data/minecraft/tags/damage_type/bypasses_enchantments.json
+6caad742fa41c0258d854e754eb59ed55eda4ed7 data/minecraft/tags/damage_type/is_fire.json
+a867902dc52877957bf3b530a36723bdb5e11e55 data/outerworld_attributes/tags/damage_type/is_elemental.json

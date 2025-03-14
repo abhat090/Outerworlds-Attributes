@@ -1,0 +1,22 @@
+{
+  "outerworld.element.nature": "Nature",
+  "outerworld.element.fire": "Fire",
+  "outerworld.element.water": "Water",
+  "outerworld.element.ender": "Ender",
+  "outerworld.element.null": "Null",
+
+  "outerworld.element.flourish.nature": "Voltaic",
+  "outerworld.element.flourish.fire": "Ashen",
+  "outerworld.element.flourish.water": "Tidal",
+  "outerworld.element.flourish.ender": "Void Touched",
+  "outerworld.element.flourish.null": "NULL",
+
+  "outerworld.damage": "Damage",
+
+  "enchantment.outerworld_attributes.water_protection": "Water Protection",
+  "enchantment.outerworld_attributes.nature_protection": "Nature Protection",
+  "enchantment.outerworld_attributes.ender_protection": "Ender Protection",
+
+  "enchantment.outerworld_attributes.water_aspect": "Water Aspect",
+  "enchantment.outerworld_attributes.nature_aspect": "Nature Aspect"
+}
